@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+.add{
+    background-color: #189407;
+    color: white;
+    border-radius: 5px;
+}
+.del{
+  background-color: #f32626;
+    color: white;
+    border-radius: 5px;
+}
